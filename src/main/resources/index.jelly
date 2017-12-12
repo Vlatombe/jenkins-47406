@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    Testing JENKINS-47406
+</div>
