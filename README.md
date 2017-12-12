@@ -1,0 +1,1 @@
+The content of this repository is used for [JenkinsTest#jobCreatedByInitializerIsRetained](https://github.com/Vlatombe/jenkins/blob/a20933dc673ba453e87b0e51936eee343d92b6af/test/src/test/java/jenkins/model/JenkinsTest.java#L684-L690).
